@@ -1,0 +1,3 @@
+## Willie's Resource Bank
+
+This repository is my public resource bank full of links to helpful resources related to product development, software engineering, design, and more. I figured I'd make this public so I can share my findings with people with similar interests. Additionally, if anyone shares similar interests and can point me to additional resources, feel free to fork, add your own links, or contact me at `wilhelmwillie@gmail.com`
